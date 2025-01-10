@@ -1,0 +1,24 @@
+{
+  "login": {
+    "title": "Login to Nile Flow",
+    "projectUrl": "Project URL",
+    "username": "Username",
+    "password": "Password",
+    "submit": "Login",
+    "urlRequired": "Project URL is required",
+    "invalidUrl": "Please enter a valid URL"
+  },
+  "welcome": {
+    "title": "Welcome to Nile Flow",
+    "greeting": "Hello, {{username}}!",
+    "projectInfo": "You are working on the project: {{projectUrl}}",
+    "instructions": "Please review the project guidelines before proceeding.",
+    "proceed": "Proceed to Main Menu"
+  },
+  "mainMenu": {
+    "title": "Main Menu",
+    "interview": "Start Interview",
+    "focusGroup": "Start Focus Group"
+  }
+}
+
